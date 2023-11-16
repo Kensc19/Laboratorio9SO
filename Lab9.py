@@ -52,6 +52,6 @@ def main():
     ventana_principal.config(bg="light blue")
     # Muestra la ventana principal
     ventana_principal.mainloop()
-
+    #FALTA PALA
 if __name__ == "__main__":
     main()
